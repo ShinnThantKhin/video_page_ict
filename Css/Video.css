@@ -1,0 +1,253 @@
+/*article 1*/
+#article1{
+    position: relative;
+    height: 300px;
+    top: 100px;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    margin-bottom: 50px;
+}
+#article1::-webkit-scrollbar{
+    display: none;
+}
+#vid1{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 20px;
+}
+#vid2{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 460px;
+    bottom: 200px;
+
+}
+#vid3{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 900px;
+    bottom: 400px;
+
+}
+#vid4{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 1340px;
+    bottom: 600px;
+
+}
+#vid5{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 1780px;
+    bottom: 800px;
+
+}
+#vid6{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 2220px;
+    bottom: 1000px; 
+}
+#vid7{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 2660px;
+    bottom: 1200px; 
+}
+#vid8{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 3100px;
+    bottom: 1400px; 
+}
+#vid9{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 3540px;
+    bottom: 1600px; 
+}
+#vid10{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 3980px;
+    bottom: 1800px; 
+}
+#vid11{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 4420px;
+    bottom: 2000px; 
+}
+#vid12{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 4860px;
+    bottom: 2200px; 
+}
+#vid13{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 5300px;
+    bottom: 2400px; 
+}
+#vid14{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 5740px;
+    bottom: 2600px; 
+}
+#vid15{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 6180px;
+    bottom: 2800px; 
+}
+#vid16{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 6620px;
+    bottom: 3000px; 
+}
+#vid17{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 7060px;
+    bottom: 3200px; 
+}
+#vid18{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 7500px;
+    bottom: 3400px; 
+}
+#vid19{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 7940px;
+    bottom: 3600px; 
+}
+#vid20{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 8380px;
+    bottom: 3800px; 
+}
+#vid21{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 8820px;
+    bottom: 4000px; 
+}
+#vid22{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 9260px;
+    bottom: 4200px; 
+}
+#vid23{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 9700px;
+    bottom: 4400px; 
+}
+#vid24{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 10140px;
+    bottom: 4600px; 
+}
+#vid25{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 10580px;
+    bottom: 4800px; 
+}
+#vid26{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 11020px;
+    bottom: 5000px; 
+}
+#vid27{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 11460px;
+    bottom: 5200px; 
+}
+#vid28{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 11900px;
+    bottom: 5400px; 
+}
+#vid29{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 12340px;
+    bottom: 5600px; 
+}
+#vid30{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 12780px;
+    bottom: 5800px; 
+}
+#vid31{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 13220px;
+    bottom: 6000px; 
+}
+#vid32{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 13660px;
+    bottom: 6200px; 
+}
+#vid33{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 14100px;
+    bottom: 6400px; 
+}
+#vid34{
+    position: relative;
+    width: 420px;
+    height: 200px;
+    left: 14540px;
+    bottom: 6600px; 
+}
